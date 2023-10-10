@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/muscle-tribe-2/static/css/main.b252b416.css",
+    "main.js": "/muscle-tribe-2/static/js/main.8644e570.js",
+    "static/media/gym-banner.png": "/muscle-tribe-2/static/media/gym-banner.1a2663308e338ebcac04.png",
+    "static/media/banner.png": "/muscle-tribe-2/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/basic.png": "/muscle-tribe-2/static/media/basic.7b5f4fcc7ed170f6d41a.png",
+    "static/media/gym.png": "/muscle-tribe-2/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/muscle-tribe-2/index.html",
+    "main.b252b416.css.map": "/muscle-tribe-2/static/css/main.b252b416.css.map",
+    "main.8644e570.js.map": "/muscle-tribe-2/static/js/main.8644e570.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b252b416.css",
+    "static/js/main.8644e570.js"
+  ]
+}
